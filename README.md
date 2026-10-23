@@ -3,10 +3,6 @@
 **An AI-powered food guide for Pakistani dishes.** A user types a dish name or uploads a photo, picks a health condition (diabetes, kidney disease or high blood pressure), answers a few follow-up questions, and gets a clear verdict (**Safe**, **Eat in moderation** or **Avoid**) with a short reason and healthier swaps.
 
 > **Guidance only. Please consult your doctor or dietitian.** This is a hackathon prototype. The dish rules have **not** been reviewed by a doctor or dietitian and the app is **not** clinically validated.
-
-- Live demo: `<your live URL, or delete this line>`
-- Source: `<your GitHub repo URL>`
-
 ## What problem it solves
 
 Many people in Pakistan live with diabetes, kidney disease or high blood pressure, but most food apps are built around Western meals. SehatPlate understands local dishes such as biryani, nihari, haleem, daal chawal and chai, and asks follow-up questions because the same dish differs from home to home.
